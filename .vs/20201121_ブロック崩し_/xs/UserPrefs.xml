@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{918312E0-6D1A-8E22-DAD4-3E5B2FC6DAE3}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameMaster.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Controller.cs" Line="14" Column="39" />
+      <File FileName="Assets/Scripts/StartShot.cs" Line="12" Column="81" />
+      <File FileName="Assets/Scripts/BoxInit.cs" Line="13" Column="5" />
+      <File FileName="Assets/Scripts/Destroyer.cs" Line="10" Column="5" />
+      <File FileName="Assets/Scripts/GameMaster.cs" Line="33" Column="6" />
+      <File FileName="Assets/Scripts/KeapOut.cs" Line="22" Column="72" />
+      <File FileName="Assets/Scripts/DteSender.cs" Line="7" Column="2" />
+      <File FileName="Assets/Scripts/extDataFetcher.cs" Line="4" Column="22" />
+      <File FileName="Assets/Scripts/SpaceStart.cs" Line="23" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
