@@ -9,7 +9,7 @@ public class Controller : MonoBehaviour
 
     void Start()
     {
-        //ひろみ
+        //ひろみ,ひろみ
     }
 
     // Update is called once per frame
