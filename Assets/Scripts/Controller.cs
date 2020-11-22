@@ -4,18 +4,22 @@ using UnityEngine;
 
 public class Controller : MonoBehaviour
 {
-
+    public float moveRange = 0.1f;
     public float spead = 0.2f;
 
     void Start()
     {
-        //ひらパーのアトラクションのナレーションがひろみでした
+       //Debug.Log(moveRange);
+
     }
 
     // Update is called once per frame
     void Update()
     {
-
+        transform.position = new Vector3(
+            transform.position.x,
+            transform.position.y,
+            Mathf.Clamp(transform.position.z, -moveRange,moveRange));
 
         if (Input.GetKey(KeyCode.LeftArrow))
         {
