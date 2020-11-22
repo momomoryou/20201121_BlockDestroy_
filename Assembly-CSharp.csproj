@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{918312E0-6D1A-8E22-DAD4-3E5B2FC6DAE3}</ProjectGuid>
+    <ProjectGuid>{28E7E5A3-30B9-A02B-61D8-903180D53CE6}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -53,15 +53,15 @@
     <UnityVersion>2020.1.14f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Assets/Scripts/DteSender.cs" />
     <Compile Include="Assets/Scripts/BoxInit.cs" />
-    <Compile Include="Assets/Scripts/StartShot.cs" />
-    <Compile Include="Assets/Scripts/Controller.cs" />
     <Compile Include="Assets/Scripts/Destroyer.cs" />
+    <Compile Include="Assets/Scripts/StartShot.cs" />
+    <Compile Include="Assets/Scripts/extDataFetcher.cs" />
+    <Compile Include="Assets/Scripts/Controller.cs" />
+    <Compile Include="Assets/Scripts/SpaceStart.cs" />
     <Compile Include="Assets/Scripts/GameMaster.cs" />
     <Compile Include="Assets/Scripts/KeapOut.cs" />
-    <Compile Include="Assets/Scripts/DteSender.cs" />
-    <Compile Include="Assets/Scripts/extDataFetcher.cs" />
-    <Compile Include="Assets/Scripts/SpaceStart.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
