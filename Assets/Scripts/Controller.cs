@@ -9,7 +9,7 @@ public class Controller : MonoBehaviour
 
     void Start()
     {
-        //ひろみ,ひろみ
+        //ひらパーのアトラクションのナレーションがひろみでした
     }
 
     // Update is called once per frame
