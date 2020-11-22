@@ -4,17 +4,18 @@ using UnityEngine;
 
 public class Controller : MonoBehaviour
 {
+
     public float spead = 0.2f;
 
     void Start()
     {
-
+        //ひろみ
     }
 
     // Update is called once per frame
     void Update()
     {
-    
+
 
         if (Input.GetKey(KeyCode.LeftArrow))
         {
